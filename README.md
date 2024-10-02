@@ -33,5 +33,5 @@ A React-based frontend application for managing library books, designed to work 
 To clone the repository, run:
 
 ```bash
-git clone https://github.com/yourusername/library-management-system-frontend.git
+git clone https://github.com/6jayyours/bookmanager.git
 cd library-management-system-frontend
